@@ -17,3 +17,7 @@ open the html
 
 ## License
 This project is licensed under the MIT License License.
+
+https://altaylor33.github.io/plannerOftheDay/
+
+![Uploading Screenshot 2023-05-15 202405.png…]()
