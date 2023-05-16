@@ -20,4 +20,5 @@ This project is licensed under the MIT License License.
 
 https://altaylor33.github.io/plannerOftheDay/
 
-![Uploading Screenshot 2023-05-15 202405.png…]()
+
+![Screenshot 2023-05-15 202405](https://github.com/ALTaylor33/plannerOftheDay/assets/121843691/80e30c7f-b59b-4ee7-b374-cf72e4a0e81f)
